@@ -1,0 +1,15 @@
+{
+    "name": "GigaGat",
+    "options": {
+        "niceName": "GigaGat",
+        "guiName": "GigaGat Markers",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 3
+    },
+    "author": "AgorSnake",
+    "description": "GigaGather markers for plants/ore/energy",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "1.0"
+}
